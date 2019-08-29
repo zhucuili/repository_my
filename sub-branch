@@ -1,0 +1,8 @@
+
+db2 => connect to staging
+
+   Database Connection Information
+
+ Database server        = DB2/AIX64 10.5.10
+ SQL authorization ID   = DSADM
+ Local database alias   = STAGING
