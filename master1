@@ -7,8 +7,6 @@ Column name                     schema    Data type name      Length     Scale N
 COUNTRY_CODES_CD                SYSIBM    VARCHAR                      6     0 Yes
 COUNTRY_CODES_DESC              SYSIBM    VARCHAR                    200     0 Yes
 INACTIVE_DATE                   SYSIBM    DATE                         4     0 Yes
-REFT_IBM_GEOGRAPHY_10_COUNTRY_> SYSIBM    VARCHAR                     30     0 No
-COUNTRY_CODES_DESC_10           SYSIBM    VARCHAR                     10     0 Yes
 CODE_TYPE                       SYSIBM    VARCHAR                     20     0 Yes
 ACTIVE_DATE                     SYSIBM    DATE                         4     0 Yes
 COUNTRY_CODES_DESC_20           SYSIBM    VARCHAR                     20     0 Yes
