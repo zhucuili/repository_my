@@ -1,0 +1,25 @@
+This is first file-DDL
+db2 => describe table WSDIWREF.REFT_IBM_GEOGRAPHY_00_COUNTRY_CODES
+
+                                Data type                     Column
+Column name                     schema    Data type name      Length     Scale Nulls
+------------------------------- --------- ------------------- ---------- ----- ------
+COUNTRY_CODES_CD                SYSIBM    VARCHAR                      6     0 Yes
+COUNTRY_CODES_DESC              SYSIBM    VARCHAR                    200     0 Yes
+INACTIVE_DATE                   SYSIBM    DATE                         4     0 Yes
+REFT_IBM_GEOGRAPHY_10_COUNTRY_> SYSIBM    VARCHAR                     30     0 No
+COUNTRY_CODES_DESC_10           SYSIBM    VARCHAR                     10     0 Yes
+CODE_TYPE                       SYSIBM    VARCHAR                     20     0 Yes
+ACTIVE_DATE                     SYSIBM    DATE                         4     0 Yes
+COUNTRY_CODES_DESC_20           SYSIBM    VARCHAR                     20     0 Yes
+LEVEL                           SYSIBM    INTEGER                      4     0 Yes
+MARKETING_USAGE_INDICATOR       SYSIBM    CHARACTER                    1     0 Yes
+COMMENTS                        SYSIBM    VARCHAR                   1024     0 Yes
+ROW_UPDT_TS                     SYSIBM    TIMESTAMP                   10     6 Yes
+STATUS                          SYSIBM    CHARACTER                    8     0 Yes
+FINANCE_USAGE_INDICATOR         SYSIBM    CHARACTER                    1     0 Yes
+MAP_TO_CODE                     SYSIBM    CHARACTER                    6     0 Yes
+SALES_USAGE_INDICATOR           SYSIBM    CHARACTER                    1     0 Yes
+
+  16 record(s) selected.
+
